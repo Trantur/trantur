@@ -33,6 +33,7 @@
   - [*Google Data Analytics Certificate*](https://www.credly.com/badges/d8457d2e-06e4-4142-8ea1-4cfd52f24c67/linked_in_profile)
   - [*Taming Big Data with Apache Spark and Python*](https://www.udemy.com/certificate/UC-e77a4dc3-1f94-44f6-847b-b766e19da7b3/)
   - [*Microsoft Certified: Azure Fundamentals*](https://www.credly.com/badges/a2ff3ef4-5dff-4eea-a792-91f2742db6ba/public_url)
+  - [*Excel for Business Professional Course*](https://www.udemy.com/certificate/UC-5a44833b-e23e-4e4e-9a65-a99c858e2717/)
 
 
 <h3 align="left">Languages and Tools:</h3>
