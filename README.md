@@ -10,7 +10,6 @@
 
 
 - 📫 How to reach me [*LinkedIn*](https://www.linkedin.com/in/lucjankonopka/)
-- 📝 My certification:
 
 ## Encuéntrame en:
 
