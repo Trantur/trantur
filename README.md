@@ -86,8 +86,6 @@
 <a href="https://youtu.be/mIVbUb7shE8">
 <img src="http://i3.ytimg.com/vi/mIVbUb7shE8/maxresdefault.jpg">
 </a>
-
--->
 </td>
 <td>
 <a href="https://youtu.be/zFbTXe1yFGA">
@@ -96,3 +94,4 @@
 </td>
 </tr>
 </table>
+-->
