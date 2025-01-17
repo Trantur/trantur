@@ -1,8 +1,27 @@
-## Hi 👋, 
 
-### Here's a little bit about myself
-### Data Engineer and Data Scientist
+👨‍💻 About Me
+Hi there! 👋 I'm Rubén, a passionate Data Engineer and Data Scientist with a background in Telecommunications Engineering and a specialization in Artificial Intelligence.
 
+🌐 Technical Skills:
+
+Data Engineering: ETL pipelines, data modeling (dimensional and relational), cloud platforms (Azure, AWS, GCP), and tools like Apache Spark, Kafka, and Airflow.
+Data Science: Machine learning, deep learning, clustering, predictive analytics, and natural language processing (NLP).
+Programming: Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch) and SQL.
+Visualization: Power BI, Tableau, Matplotlib, Seaborn.
+
+📊 My Interests:
+
+Implementing end-to-end pipelines for large-scale data processing.
+Exploring unsupervised learning techniques for clustering and dimensionality reduction.
+Developing AI models to predict and optimize energy consumption patterns (e.g., my work on clustering energy data for photovoltaic installations).
+
+🚀 Current Projects:
+
+- Building a predictive model for machine failures using real-time sensor data.
+- Designing a personal YouTube channel to explain mysteries and strange stories using animations.
+- Experimenting with interactive game development for iOS.
+  
+📬 Contact Me: If you're interested in collaborating or just want to connect, feel free to reach out!
 <p align="center"> <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 70px></picture> </p>
 
 <!-- <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
