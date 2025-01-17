@@ -9,18 +9,17 @@
 -->
 
 
-- 📫 How to reach me [*LinkedIn*](https://www.linkedin.com/in/lucjankonopka/)
+- 📫 How to reach me [*LinkedIn*](https://www.linkedin.com/in/rubenjme/)
 
 ## Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
-[![LinkedIn](LinkedIn)](https://www.linkedin.com/in/braismoure)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/rubenjme)
+[![LinkedIn](LinkedIn)](https://www.linkedin.com/in/rubenjme)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mariano fernández" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariano fernández" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mariano_fernand2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mariano_fernand2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rubenjme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubenjme" height="30" width="40" /></a>
 </p>
 
 
@@ -29,9 +28,6 @@
 
 
 - 📝 My certification:
-  - [*Data Engineering, Big Data, and Machine Learning on GCP*](https://www.coursera.org/account/accomplishments/specialization/certificate/L6GC3BVG4FXT)
-  - [*Google Data Analytics Certificate*](https://www.credly.com/badges/d8457d2e-06e4-4142-8ea1-4cfd52f24c67/linked_in_profile)
-  - [*Taming Big Data with Apache Spark and Python*](https://www.udemy.com/certificate/UC-e77a4dc3-1f94-44f6-847b-b766e19da7b3/)
   - [*Microsoft Certified: Azure Fundamentals*](https://www.credly.com/badges/a2ff3ef4-5dff-4eea-a792-91f2742db6ba/public_url)
   - [*Excel for Business Professional Course*](https://www.udemy.com/certificate/UC-5a44833b-e23e-4e4e-9a65-a99c858e2717/)
 
