@@ -25,7 +25,7 @@
 
 
 #
-  💥💥💥 ~~ [**Check out my portfolio here!**]([https://github.com/Trantur/Portfolio.git]) ~~ 💥💥💥
+  💥💥💥 ~~ [**Check out my portfolio here!**]([https://github.com/Trantur/Portfolio]) ~~ 💥💥💥
 
 
 - 📝 My certification:
