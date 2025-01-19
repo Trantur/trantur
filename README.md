@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://i.imgur.com/DCJlsjX.jpeg" alt="Quality means doing it right when no one is looking – Henry Ford" height="240" width="1000" /> </p>
 
 👨🏻About Me:
 <br>
